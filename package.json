@@ -1,0 +1,30 @@
+{ 
+    "name": "mongoose-behaviors"
+  , "description": "Pluggable behaviors for mongoose schemas."
+  , "version": "0.1.0"
+  , "keywords": ["mongodb", "mongoose", "orm", "data", "datastore", "nosql", "behaviors"]
+  , "maintainers": [
+      {
+          "name": "Félix Bellanger"
+        , "email": "felix.bellanger@gmail.com"
+        , "web": "http://felixbellanger.com"
+      }
+    ]
+  , "contributors": []
+  , "bugs": "https://github.com/Keeguon/mongoose-behaviors/issues"
+  , "licences": [
+      {
+          "type": "MIT"
+        , "url": "https://github.com/Keeguon/mongoose-behaviors/blob/master/LICENSE"
+      }
+    ]
+  , "repositories": [
+      {
+          "type": "git"
+        , "url": "git://github.com/Keeguon/mongoose-behaviors.git"
+      }
+    ]
+  , "dependencies": {
+        "underscore": ">=1.1.2"
+    }
+}
