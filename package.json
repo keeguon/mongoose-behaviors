@@ -2,7 +2,7 @@
     "name": "mongoose-behaviors"
   , "description": "Pluggable behaviors for mongoose schemas."
   , "author": "Félix Bellanger <felix.bellanger@gmail.com>"
-  , "version": "0.1.2"
+  , "version": "0.1.3"
   , "keywords": ["mongodb", "mongoose", "orm", "data", "datastore", "nosql", "behaviors"]
   , "contributors": []
   , "dependencies": {
