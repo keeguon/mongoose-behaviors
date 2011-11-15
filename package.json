@@ -1,7 +1,7 @@
 { 
     "name": "mongoose-behaviors"
   , "description": "Pluggable behaviors for mongoose schemas."
-  , "version": "0.1.1"
+  , "version": "0.1.2"
   , "keywords": ["mongodb", "mongoose", "orm", "data", "datastore", "nosql", "behaviors"]
   , "maintainers": [
       {
